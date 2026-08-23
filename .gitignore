@@ -1,0 +1,6 @@
+.env
+kimstudy_state.json
+debug/
+__pycache__/
+*.pyc
+.venv/
